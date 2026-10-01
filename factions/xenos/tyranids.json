@@ -1,0 +1,16 @@
+{
+  "name": "Tyranids",
+  "alliance": "Xenos",
+  "verbs": [
+    "Consuming the biomass",
+    "Assimilating DNA",
+    "Evolving adaptations",
+    "Swarming",
+    "Heeding the Hive Mind",
+    "Casting the Shadow in the Warp",
+    "Digesting in the reclamation pools",
+    "Spawning more gaunts",
+    "Tunnelling with Trygons",
+    "Devouring the world"
+  ]
+}

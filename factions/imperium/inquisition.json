@@ -1,0 +1,17 @@
+{
+  "name": "Inquisition",
+  "alliance": "Imperium",
+  "verbs": [
+    "Interrogating the suspect",
+    "Brandishing the Inquisitorial rosette",
+    "Consulting the Ordo Hereticus",
+    "Redacting the records",
+    "Mind-wiping the witnesses",
+    "Suspecting everyone",
+    "Burning the witch",
+    "Sealing the archives",
+    "Scouring the logs for heresy",
+    "Invoking the Carta",
+    "Considering Exterminatus"
+  ]
+}
